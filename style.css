@@ -1,0 +1,28 @@
+body{
+    background-color: lightgray;
+}
+
+.container-converter{
+
+    text-align: center;
+    border:3px solid blue;
+    
+
+    /* center   */
+    width: 50%;
+    padding: 10px;
+    margin:auto;
+
+}
+
+h2, label, button{
+    color: blue;
+}
+p{
+    color: greenyellow;
+}
+
+fieldset{
+    margin: 20px;
+    border: 1px solid grey;
+}
